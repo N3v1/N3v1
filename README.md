@@ -1,10 +1,10 @@
 <!--Banner-->
-![Banner](Github_Profile_Banner.png)
+![Banner](Profile_Banner.png)
 
 <!--header gif-->
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div>-->
 
 <!--Social-Media-Links-->
 
@@ -19,7 +19,7 @@
   - ...
 -->
 
-### Hi there 👋, NH
+### Welcome to my Profile 👋
 #### Design and Development
 I'm Nevio from Germany, and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks. 
 I also enjoy wireframing, ui, ux, and design in general.
