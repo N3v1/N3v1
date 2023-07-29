@@ -7,6 +7,11 @@
 </div>-->
 
 <!--Social-Media-Links-->
+<!--Github-->
+
+<!--Instagram-->
+
+<!--Stack Overflow-->
 
 
 <!--Summary:
@@ -24,6 +29,18 @@
 I'm Nevio from Germany, and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks. 
 I also like wireframing, ui, ux, and design in general.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3v1)](https://github.com/anuraghazra/github-readme-stats)
+### Hobbies
+
+
+### Skills
+
+
+<!--Projects-->
+
+### Goals for 2023 🗓️
+
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3v1)](https://github.com/anuraghazra/github-readme-stats)-->
+
 
 
