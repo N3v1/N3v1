@@ -1,5 +1,5 @@
 <!--Banner-->
-![Banner](Github_background)
+![Banner](Github_Profile_Banner.png)
 
 <!--header gif-->
 <div id="header" align="center">
