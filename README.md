@@ -1,19 +1,6 @@
 <!--Banner-->
 ![Banner](Profile_Banner.png)
 
-<!--header gif-->
-<!--<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>-->
-
-<!--Social-Media-Links-->
-<!--Github-->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N3v1)  
-<!--Instagram-->
-
-<!--Stack Overflow-->
-
-
 <!--Summary:
   - Introduction
   - Experiences
@@ -25,22 +12,34 @@
 -->
 
 ### **Welcome to my Profile** 👋
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N3V1)  
+<!--<div id="header" align="right">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>-->
 #### Design and Development
+
 I'm Nevio from Germany, and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks. 
-I also like wireframing, ui, ux, and design in general.
+I also like wireframing, UI, UX, and design in general.
 
 ### Hobbies
+👨‍💻 Programming 
 
+🎵 Produce and listen to music 
+
+👨‍🍳 Cooking 
+
+🎹 Play the piano
+
+### My Goals for 2023 🗓️
+- Expand my C++ coding skills
+- Expand my SwiftUI skills
+- Beginn to learn Korean 🇰🇷 and Japanese 🇯🇵
 
 ### Skills
 ![sklillset](skillset.png)
 
+
 <!--Projects-->
-
-### Goals for 2023 🗓️
-
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3v1)](https://github.com/anuraghazra/github-readme-stats)-->
-
-
-
+<!--### My Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3v1)](https://github.com/anuraghazra/github-readme-stats)
+-->
