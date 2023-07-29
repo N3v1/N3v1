@@ -11,17 +11,17 @@
   - ...
 -->
 
-### **Welcome to my Profile** 👋
+# **Welcome to my Profile** 👋
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N3V1)  
 <!--<div id="header" align="right">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>-->
-#### Design and Development
+### Design and Development
 
 I'm Nevio from Germany, and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks. 
 I also like wireframing, UI, UX, and design in general.
 
-### Hobbies
+## Hobbies
 👨‍💻 Programming 
 
 🎵 Produce and listen to music 
@@ -30,12 +30,12 @@ I also like wireframing, UI, UX, and design in general.
 
 🎹 Play the piano
 
-### My Goals for 2023 🗓️
+## My Goals for 2023 🗓️
 - Expand my C++ coding skills
 - Expand my SwiftUI skills
 - Beginn to learn Korean 🇰🇷 and Japanese 🇯🇵
 
-### Skills
+## Skills
 ![sklillset](skillset.png)
 
 
