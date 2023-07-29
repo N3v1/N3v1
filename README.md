@@ -47,7 +47,7 @@ I also like wireframing, UI, UX, and design in general.
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3v1)](https://github.com/anuraghazra/github-readme-stats&theme)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3v1&show_icons=true&theme=shades-of-purple)
 
-<p><img center="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=N3v1&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="n3v1" /></p>
+<!--<p><img center="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=N3v1&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="n3v1" /></p>-->
 
 
 
