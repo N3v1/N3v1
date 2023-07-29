@@ -8,7 +8,7 @@
 
 <!--Social-Media-Links-->
 <!--Github-->
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N3v1)  
 <!--Instagram-->
 
 <!--Stack Overflow-->
@@ -24,7 +24,7 @@
   - ...
 -->
 
-### Welcome to my Profile 👋
+### **Welcome to my Profile** 👋
 #### Design and Development
 I'm Nevio from Germany, and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks. 
 I also like wireframing, ui, ux, and design in general.
