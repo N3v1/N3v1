@@ -30,10 +30,13 @@ I also like wireframing, UI, UX, and design in general.
 
 🎹 Play the piano
 
+♟️ Play chess
+
 ## My Goals for 2023 🗓️
 - Expand my C++ coding skills
 - Expand my SwiftUI skills
 - Beginn to learn Korean 🇰🇷 and Japanese 🇯🇵
+- Learn more chess tactics
 
 ## Skills
 ![sklillset](skillset.png)
