@@ -33,7 +33,7 @@ I also like wireframing, ui, ux, and design in general.
 
 
 ### Skills
-
+![sklillset](skillset.png)
 
 <!--Projects-->
 
