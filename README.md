@@ -43,7 +43,10 @@ I also like wireframing, UI, UX, and design in general.
 
 
 <!--Projects-->
-### My Stats
+## My Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N3v1&repo=Calculator&theme=shades-of-purple)](https://github.com/N3v1/Calculator)
+
+## My Stats
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3v1)](https://github.com/anuraghazra/github-readme-stats&theme)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3v1&show_icons=true&theme=shades-of-purple)
 
