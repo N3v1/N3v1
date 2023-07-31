@@ -51,6 +51,7 @@ I also like wireframing, UI, UX, and design in general.
 ## My Stats
 <!--Top Languages-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3v1&layout=compact&theme=shades-of-purple)
+
 <!--Github Stats-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3v1&show_icons=true&theme=shades-of-purple)
 <!--Streak-->
