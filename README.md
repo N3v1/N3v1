@@ -52,10 +52,13 @@ I also like wireframing, UI, UX, and design in general.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N3v1&repo=Contribute-To-This-Project&theme=shades-of-purple)](https://github.com/N3v1/Contribute-To-This-Project)
 
 ## My Stats
+<!--![Overall](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N3v1&theme=shades-of-purple)-->
+
 <!--Top Languages-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3v1&layout=compact&theme=shades-of-purple)
 
 <!--Github Stats-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3v1&show_icons=true&theme=shades-of-purple)
+
 <!--Streak-->
 <p><img center="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N3v1&theme=shades-of-purple" alt="N3v1" /></p>
