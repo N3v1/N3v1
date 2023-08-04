@@ -50,6 +50,7 @@ I also like wireframing, UI, UX, and design in general.
 
 ## Projects I have worked on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N3v1&repo=Contribute-To-This-Project&theme=shades-of-purple)](https://github.com/N3v1/Contribute-To-This-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N3v1&repo=ChessApp_V2&theme=shades-of-purple)](https://github.com/N3v1/ChessApp_V2)
 
 ## My Stats
 <!--![Overall](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N3v1&theme=shades-of-purple)-->
