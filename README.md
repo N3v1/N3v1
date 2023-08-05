@@ -13,7 +13,7 @@
 
 # **Welcome to my Profile** 👋
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N3V1) 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N3V12)
 ### Design and Development
 
 Hi, I'm Nevio from Germany, and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks. 
