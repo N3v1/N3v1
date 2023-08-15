@@ -63,3 +63,7 @@ I also like wireframing, UI, UX, and design in general.
 
 <!--Streak-->
 <p><img center="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N3v1&theme=shades-of-purple" alt="N3v1" /></p>
+
+<!--Tropy-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=N3v1&theme=shades-of-purple&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
