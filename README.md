@@ -66,4 +66,3 @@ I also like wireframing, UI, UX, and design in general.
 
 <!--Tropy-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=N3v1&theme=shades-of-purple&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
