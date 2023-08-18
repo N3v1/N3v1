@@ -45,6 +45,7 @@ I also like wireframing, UI, UX, and design in general.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N3v1&repo=Calculator&theme=shades-of-purple)](https://github.com/N3v1/Calculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N3v1&repo=Apple-Calculator-Rebuild&theme=shades-of-purple)](https://github.com/N3v1/Apple-Calculator-Rebuild)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N3v1&repo=To-Do-App&theme=shades-of-purple)](https://github.com/N3v1/To-Do-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N3v1&repo=QuickConvert&theme=shades-of-purple)](https://github.com/N3v1/QuickConvert)
 
 ## Projects I have worked on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=N3v1&repo=Contribute-To-This-Project&theme=shades-of-purple)](https://github.com/N3v1/Contribute-To-This-Project)
