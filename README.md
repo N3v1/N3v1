@@ -18,7 +18,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N3V12)
 
 ```SWIFT
-val nevio = Person(
+var nevio = Person(
   name = "Nevio H",
   location = Coordinate2D(51.165691, 10.451526),
   languages = setOf("de", "en", "ita", "kor"),
