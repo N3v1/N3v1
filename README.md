@@ -17,6 +17,19 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N3V1)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/N3V12)
 
+```SWIFT
+val nevio = Person(
+  name = "Nevio H",
+  location = Coordinate2D(51.165691, 10.451526),
+  languages = setOf("de", "en", "ita", "kor"),
+  skills = setOf("swift", "cpp", "javascript", "html", "css", "typescript", "nextjs")
+)
+
+nevio.hi()
+
+// Prints out: Hey! Nice to see you there 😊
+```
+
 ### Design and Development
 
 Hi, I'm Nevio from Germany, and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks.
