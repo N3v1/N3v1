@@ -19,7 +19,7 @@ var nevio = Person(
   name = "Nevio H",
   location = Coordinate2D(51.165691, 10.451526),
   languages = setOf("de", "en", "ita", "kor"),
-  skills = setOf("swift", "cpp", "javascript", "html", "css", "typescript", "nextjs")
+  skills = setOf("swift", "cpp", "javascript", "html", "css", "typescript", "nextjs", "svelte")
 )
 
 nevio.hi()
