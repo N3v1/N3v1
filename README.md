@@ -53,7 +53,11 @@ I also like wireframing, UI, UX, and design in general.
 
 ## Skills
 
-![sklillset](skillset.png)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,cs,css,html,js,ts,tailwind, swift,svelte,vim,vscode,visualstudio,figma,ai,ps,blender,firebase,discord,ableton" />
+  </a>
+</p>
 
 <!--Projects-->
 
