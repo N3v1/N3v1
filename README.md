@@ -24,13 +24,12 @@ struct Developer {
   let skills = ["Swift", "Cpp", "C", "JavaScript", "HTML", "CSS", "TypeScript"]
   
   func sayHi() {
-    print("Hey, thanks for dropping by, feel free to have a look at my work!")
+    print("Hey, thanks for dropping by, feel free to have a look at my work! 🙂")
   }
 }
 
 let me = Developer()
 me.sayHi()
-// Prints out: Hey! Nice to see you there 😊
 ```
 
 ### Design and Development
