@@ -64,15 +64,15 @@ I also like wireframing, UI, UX, and design in general.
 <!--![Overall](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N3v1&theme=shades-of-purple)-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3v1&show_icons=true&theme=shades-of-purple)
-![](https://github-readme-streak-stats.herokuapp.com/?user=N3v1&theme=shades-of-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3v1&layout=compact&theme=shades-of-purple)
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=N3v1&theme=shades-of-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3v1&layout=compact&theme=shades-of-purple)-->
 
 
-
+![N3v1 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=N3v1)
 
 <!--Tropy-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=N3v1&theme=shades-of-purple&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![N3v1 github-trophies](https://stats.dooboo.io/api/github-trophies?login=N3v1)
 
 <h2 align="center">Connect With Me</h2>
 
