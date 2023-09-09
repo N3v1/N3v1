@@ -73,3 +73,18 @@ I also like wireframing, UI, UX, and design in general.
 <!--Tropy-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=N3v1&theme=shades-of-purple&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h2 align="center">Connect With Me</h2>
+
+<div align=center>
+  
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N3v1)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n3v1@gmail.com)
+
+<p align="center">
+  <a aria-label="Connect with me on Discord" href="" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/Connect%20with%20me-black.svg?style=for-the-badge&logo=Discord">
+  </a>
+</p>
+  
+</div>
