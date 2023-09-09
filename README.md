@@ -83,7 +83,7 @@ I also like wireframing, UI, UX, and design in general.
 
 <p align="center">
   <a aria-label="Connect with me on Discord" href="" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/Connect%20with%20me-black.svg?style=for-the-badge&logo=Discord">
+    <img alt="" src="https://img.shields.io/badge/Discord-black.svg?style=for-the-badge&logo=Discord">
   </a>
 </p>
   
