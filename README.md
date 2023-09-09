@@ -55,7 +55,7 @@ I also like wireframing, UI, UX, and design in general.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,cs,css,html,js,ts,tailwind,swift,svelte,vim,vscode,visualstudio,figma,ai,ps,blender,firebase,discord,ableton" />
+    <img src="https://skillicons.dev/icons?i=github,git,docker,c,cpp,cs,css,html,js,ts,tailwind,swift,svelte,vim,vscode,visualstudio,figma,ai,ps,blender,firebase,discord,ableton" />
   </a>
 </p>
 
