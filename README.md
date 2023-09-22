@@ -22,6 +22,7 @@ struct Developer {
   let location = Coordinate2D(51.165691, 10.451526),  // Germany
   let languages = ["de_DE", "en_US", "ita_ITA", "kor_KOR"]
   let skills = ["Swift", "Cpp", "C", "JavaScript", "HTML", "CSS", "TypeScript"]
+let favouriteLanguage = ["Swift", "Cpp"]
   
   func sayHi() {
     print("Hey, thanks for dropping by, feel free to have a look at my work! 🙂")
