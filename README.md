@@ -15,7 +15,7 @@
 # **Welcome to my Profile** 👋
 
 ```SWIFT
-struct Developer {
+struct Nevio: Developer {
   let name = "Nevio H"
   let pronouns = "he/him/his"
   let role = "iOS & macOS Developer"
