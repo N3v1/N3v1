@@ -36,7 +36,7 @@ me.sayHi()
 ### Design and Development
 
 Hi, I'm Nevio from Germany, and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks.
-I also like wireframing, UI, UX, and design in general.
+I also like wireframing, UI, UX, and design in general. I'm currently working at my code editor IDE "CodeMaster" and on my converter app "QuickConvert".
 
 ## Hobbies
 
