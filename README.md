@@ -29,7 +29,7 @@ struct Nevio: Developer {
   }
 }
 
-let me = Developer()
+let me = Nevio()
 me.sayHi()
 ```
 
