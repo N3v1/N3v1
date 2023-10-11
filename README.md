@@ -57,6 +57,14 @@ I also like wireframing, UI, UX, and design in general. I'm currently working at
 - Beginn to learn Korean 🇰🇷 and Japanese 🇯🇵
 - Learn more chess tactics
 
+## What I'm currently working on
+- CodeMaster
+- QuickConvert
+- ScribbleLab
+
+## I'm looking to
+... collaborate on SwiftUI projects
+
 ## Skills
 
 <p align="center">
