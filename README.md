@@ -91,10 +91,8 @@ I also like wireframing, UI, UX, and design in general. I'm currently working at
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N3v1)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n3v1@gmail.com)
 
-<p align="center">
-  <a aria-label="nh2487" href="" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/Discord-black.svg?style=for-the-badge&logo=Discord">
-  </a>
-</p>
+<a aria-label="Connect with me over Discord" href="" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/nh2487-black.svg?style=for-the-badge&logo=Discord">
+</a>
   
 </div>
