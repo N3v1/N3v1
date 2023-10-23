@@ -96,13 +96,13 @@ I also like wireframing, UI, UX, and design in general. I'm currently working at
 
 <div align="center">
 
-<img src="https://github.com/iiiiftekhar/iiiiftekhar/blob/main/resources/vs-code.png" height="40" alt="vscode_logo"/>
+<img src="https://github.com/N3v1/N3v1/blob/main/resources/vs-code.png" height="40" alt="vscode_logo"/>
 <img width="12" />
 
-<img src="https://github.com/iiiiftekhar/iiiiftekhar/blob/main/resources/xcode.png" height="40" alt="xcode_logo"/>
+<img src="https://github.com/N3v1/N3v1/blob/main/resources/xcode.png" height="40" alt="xcode_logo"/>
 <img width="12" />
 
-<img src="https://github.com/iiiiftekhar/iiiiftekhar/blob/main/resources/android-studio.png" height="40" alt="android-studio_logo"/>
+<img src="https://github.com/N3v1/N3v1/blob/main/resources/android-studio.png" height="40" alt="android-studio_logo"/>
 <img width="12" />
 
 </div>
