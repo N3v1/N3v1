@@ -92,6 +92,21 @@ I also like wireframing, UI, UX, and design in general. I'm currently working at
 
 ![N3v1 github-trophies](https://stats.dooboo.io/api/github-trophies?login=N3v1)
 
+<h3 align="center""> Tools </h3>
+
+<div align="center">
+
+<img src="https://github.com/iiiiftekhar/iiiiftekhar/blob/main/resources/vs-code.png" height="40" alt="vscode_logo"/>
+<img width="12" />
+
+<img src="https://github.com/iiiiftekhar/iiiiftekhar/blob/main/resources/xcode.png" height="40" alt="xcode_logo"/>
+<img width="12" />
+
+<img src="https://github.com/iiiiftekhar/iiiiftekhar/blob/main/resources/android-studio.png" height="40" alt="android-studio_logo"/>
+<img width="12" />
+
+</div>
+
 <h2 align="center">Connect With Me</h2>
 
 <div align=center>
