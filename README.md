@@ -50,12 +50,12 @@ I also like wireframing, UI, UX, and design in general. I'm currently working at
 
 ♟️ Play chess
 
-## My Goals for 2023 🗓️
+## My Goals for 2024 🗓️
 
 - Expand my C++ coding skills
 - Expand my SwiftUI skills
-- Beginn to learn Korean 🇰🇷 and Japanese 🇯🇵
-- Learn more chess tactics
+- Learning UIKit
+- Learn more about Software Architecture
 
 ## Skills
 
@@ -72,16 +72,15 @@ I also like wireframing, UI, UX, and design in general. I'm currently working at
 ## My Stats
 
 <!--![Overall](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N3v1&theme=shades-of-purple)-->
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3v1&show_icons=true&theme=shades-of-purple)
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=N3v1&theme=shades-of-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3v1&layout=compact&theme=shades-of-purple)-->
 
-
 ![N3v1 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=N3v1)
 
 <!--Tropy-->
-
+<!--
 ![N3v1 github-trophies](https://stats.dooboo.io/api/github-trophies?login=N3v1)
 
 <h3 align="center""> Tools </h3>
@@ -98,7 +97,7 @@ I also like wireframing, UI, UX, and design in general. I'm currently working at
 <img width="12" />
 
 </div>
-
+-->
 <h2 align="center">Connect With Me</h2>
 
 <div align=center>
