@@ -36,16 +36,3 @@ me.sayHi()
 Hi, I'm Nevio from Germany, and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks.
 I also like wireframing, UI, UX, and design in general. I'm currently working at my code editor IDE "CodeMaster" and on my converter app "QuickConvert".
 
-
-<h2 align="center">Connect With Me</h2>
-
-<div align=center>
-  
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N3v1)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n3v1@gmail.com)
-
-<a aria-label="Connect with me over Discord" href="" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/nh2487-black.svg?style=for-the-badge&logo=Discord">
-</a>
-  
-</div>
