@@ -1,6 +1,6 @@
 <!--Banner-->
 
-![Banner](Profile_Banner.png)
+<!--![Banner](Profile_Banner.png)-->
 
 <!--Summary:
   - Introduction
@@ -12,7 +12,7 @@
   - ...
 -->
 
-# **Welcome to my Profile** 👋
+# **Welcome to my Profile** 
 
 ```SWIFT
 struct Nevio: Developer {
@@ -33,72 +33,10 @@ let me = Nevio()
 me.sayHi()
 ```
 
-### Design and Development
-
 Hi, I'm Nevio from Germany, and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks.
 I also like wireframing, UI, UX, and design in general. I'm currently working at my code editor IDE "CodeMaster" and on my converter app "QuickConvert".
 
-## Hobbies
 
-👨‍💻 Programming
-
-🎵 Produce and listen to music
-
-👨‍🍳 Cooking
-
-🎹 Play the piano
-
-♟️ Play chess
-
-## My Goals for 2024 🗓️
-
-- Expand my C++ coding skills
-- Expand my SwiftUI skills
-- Learning UIKit
-- Learn more about Software Architecture
-
-<!--
-## Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,docker,php,react,md,c,cpp,cs,css,html,js,ts,tailwind,swift,svelte,vim,neovim,vscode,visualstudio,figma,ai,ps,xd,blender,unity,unreal,firebase,discord,ableton" />
-  </a>
-</p>
--->
-<!--Projects-->
-
-
-
-## My Stats
-
-<!--![Overall](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N3v1&theme=shades-of-purple)-->
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3v1&show_icons=true&theme=shades-of-purple)
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=N3v1&theme=shades-of-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3v1&layout=compact&theme=shades-of-purple)-->
-<!--
-![N3v1 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=N3v1)
--->
-<!--Tropy-->
-<!--
-![N3v1 github-trophies](https://stats.dooboo.io/api/github-trophies?login=N3v1)
-
-<h3 align="center""> Tools </h3>
-
-<div align="center">
-
-<img src="https://github.com/N3v1/N3v1/blob/main/vs-code.png" height="40" alt="vscode_logo"/>
-<img width="12" />
-
-<img src="https://github.com/N3v1/N3v1/blob/main/xcode.png" height="40" alt="xcode_logo"/>
-<img width="12" />
-
-<img src="https://github.com/N3v1/N3v1/blob/main/android-studio.png" height="40" alt="android-studio_logo"/>
-<img width="12" />
-
-</div>
--->
 <h2 align="center">Connect With Me</h2>
 
 <div align=center>
