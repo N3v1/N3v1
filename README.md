@@ -1,17 +1,3 @@
-<!--Banner-->
-
-<!--![Banner](Profile_Banner.png)-->
-
-<!--Summary:
-  - Introduction
-  - Experiences
-  - Skills
-  - Example Projects
-  - hobbies
-  - study goals
-  - ...
--->
-
 # **Welcome to my Profile** 
 
 ```SWIFT
@@ -34,5 +20,5 @@ me.sayHi()
 ```
 
 Hi, I'm Nevio from Germany, and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks.
-I also like wireframing, UI, UX, and design in general. I'm currently working at my code editor IDE "CodeMaster" and on my converter app "QuickConvert".
+I also like wireframing, UI, UX, and design in general. I'm currently working at my text-editor "ScribbleLab" and help at some Projects from TechWithKilian.
 
