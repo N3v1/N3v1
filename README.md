@@ -20,5 +20,5 @@ me.sayHi()
 ```
 
 Hi, I'm Nevio from Germany, and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks.
-I also like wireframing, UI, UX, and design in general. I'm currently working at [my text-editor "ScribbleLab"](https://github.com/ScribbleLabApp) and help at some Projects from TechWithKilian.
+I also like wireframing, UI, UX, and design in general. I'm currently working at my text-editor [ScribbleLab](https://github.com/ScribbleLabApp) and help at some Projects from [TechWithKilian](https://github.com/TechWithKilian).
 
