@@ -19,6 +19,15 @@ let me = Nevio()
 me.sayHi()
 ```
 
-Hi, I'm Nevio from Germany, and I do Graphic Design and Development in my free time. I really enjoy learning new languages and frameworks.
-I also like wireframing, UI, UX, and design in general. I'm currently working at my text-editor [ScribbleLab](https://github.com/ScribbleLabApp) and help at some Projects from [TechWithKilian](https://github.com/TechWithKilian).
+Hey there, it's a pleasure to meet you! I'm Nevio from Germany, and I'm truly passionate about graphic design and development in my free time. Learning new languages and frameworks always excites me, and I'm really dedicated to wireframing, UI, UX, and design in general.
 
+If you enjoy my work, your support in starring my repositories would mean a lot to me.
+
+### 🚀 My current Projects
+
+- [**ScribbleLab**](https://github.com/ScribbleLabApp/ScribbleLab): A powerful notetaking app that’s features goes way beyond - Developed by students for students
+- [**SFFileManagementKit**](https://github.com/ScribbleLabApp/SFFileManagementKit):  The official ScribbleLabApp's Scribble Foundation File Management Kit for document interaction in ScribbleLab 
+- [**AvatarKit**](https://github.com/ScribbleLabApp/SLAvatarKit): Open Source Alternative to Apple's private AvatarKit framework 
+
+> [!NOTE]
+> I am seeking contributors for my open-source libraries at [ScribbleLabApp](https://github.com/ScribbleLabApp). Join our [Discord server](https://discord.gg/eRCe7tFuBk) or email me at [email](n3v1010@gmail.com) if interested.
