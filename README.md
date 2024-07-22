@@ -21,7 +21,7 @@ me.sayHi()
 
 Hey there, it's a pleasure to meet you! I'm Nevio from Germany, and I'm truly passionate about graphic design and development in my free time. Learning new languages and frameworks always excites me, and I'm really dedicated to wireframing, UI, UX, and design in general.
 
-If you enjoy my work, your support in starring my repositories would mean a lot to me.
+If you enjoy my work, your support in starring my repositories would mean a lot to me. Your stars help me gain visibility and encourage others in the community to discover and benefit from this work. 🧡 `#opensourcetogether`
 
 ### 🚀 My current Projects
 
