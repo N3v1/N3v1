@@ -30,4 +30,4 @@ If you enjoy my work, your support in starring my repositories would mean a lot 
 - [**AvatarKit**](https://github.com/ScribbleLabApp/SLAvatarKit): Open Source Alternative to Apple's private AvatarKit framework 
 
 > [!NOTE]
-> I am seeking contributors for my open-source libraries at [ScribbleLabApp](https://github.com/ScribbleLabApp). Join our [Discord server](https://discord.gg/eRCe7tFuBk) or email me at [email](mailto:n3v1010@gmail.com) if interested.
+> I am seeking contributors for my open-source libraries at [ScribbleLabApp](https://github.com/ScribbleLabApp). Join our [Discord server](https://discord.gg/eRCe7tFuBk) or email me at [email](mailto:n3v1010@gmail.com) if interested. Your help will be greatly appreciated. Let’s work together to create something unique and remarkable.
