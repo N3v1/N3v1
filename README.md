@@ -3,15 +3,18 @@
 ```SWIFT
 struct Nevio: Developer {
   let name = "Nevio H"
-  let pronouns = "he/him/his"
+  let pronouns = "he/him"
+  let location: Location = .Germany
+
   let role = "iOS & macOS Developer, Beta tester"
-  let location = Coordinate2D(51.165691, 10.451526),  // Germany
-  let languages = ["de_DE", "en_US", "ita_ITA", "kor_KOR"]
-  let skills = ["Swift", "Cpp", "C", "JavaScript", "HTML", "CSS", "TypeScript"]
-  let favouriteLanguage = ["Swift", "Cpp"]
+  let languages: [Languages] = [.German, .English, .Italian]
+
+  let programmingLanguages = ["Swift", "Objective-C", "C", "C++", "ASM", "JS"]
+  let markup = ["HTML", "CSS"]
+  let scripting = ["Shell"]
   
-  func sayHi() {
-    print("Hey, thanks for dropping by, feel free to have a look at my work! 🙂")
+  func greet() {
+    print("Hey, thanks for dropping by, feel free to have a look at my work! 🧡")
   }
 }
 
