@@ -34,3 +34,7 @@ If you enjoy my work, your support in starring my repositories would mean a lot 
 
 > [!NOTE]
 > I am seeking contributors for my open-source libraries at [ScribbleLabApp](https://github.com/ScribbleLabApp). Join our [Discord server](https://discord.gg/eRCe7tFuBk) or email me at [email](mailto:n3v1010@gmail.com) if interested. Your help will be greatly appreciated. Let’s work together to create something unique and remarkable.
+
+### 💪 Are you Intrested for more?
+
+Are you interested in **collaborating** or just **having a friendly chat**? Feel free to **send me an [email](mailto:n3v1010@gmail.com)** so we can discuss anything important. Let’s **work together** to create something **unique and remarkable**.
