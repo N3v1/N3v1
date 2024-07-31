@@ -38,3 +38,8 @@ If you enjoy my work, your support in starring my repositories would mean a lot 
 ### 💪 Are you Intrested for more?
 
 Are you interested in **collaborating** or just **having a friendly chat**? Feel free to **send me an [email](mailto:n3v1010@gmail.com)** so we can discuss anything important. Let’s **work together** to create something **unique and remarkable**. 🤩
+
+### Let's Connect 🤝
+
+<a aligh="left" href="https://www.instagram.com/n3v1010/" target="_blank" rel="noreferrer noopener"><img src="instagram_g.svg" alt="Instagram" width="25" height="25" /></a> <a aligh="left" href="https://www.linkedin.com/in/nevioh/" target="_blank" rel="noreferrer noopener"><img src="linkedin.svg" alt="LinkedIn" width="25" height="25" /></a> <a aligh="left" href="mailto:n3v1010@gmail.com" target="_blank" rel="noreferrer noopener"><img src="at.svg" alt="Email" width="25" height="25" /></a>  
+
