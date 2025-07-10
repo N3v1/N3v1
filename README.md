@@ -14,6 +14,7 @@ Building high-quality apps for iOS and macOS that focus on performance, intuitiv
 
 - [**ScribbleLab**](https://github.com/ScribbleLabApp/ScribbleLab): A powerful, student-focused note-taking app built for performance and flexibility (Swift · SwiftUI · iOS · macOS)
 - [**AvatarKit**](https://github.com/ScribbleLabApp/SLAvatarKit): An open-source alternative to Apple’s private AvatarKit framework (Swift · Obj-C · 3D · iOS)
+- [**Cueboard**](https://github.com/Soundform-Labs/Cueboard): A professional macOS app for precise audio cue playback with multi-output routing and advanced timecode sync via the StageSync module. Built for live shows and studio use.
 
 ---
 
