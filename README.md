@@ -2,21 +2,23 @@
 ```SWIFT
 struct Nevio: Developer {
   let name = "Nevio H"
-  let skills = ["Swift", "Objective-C", "C++", "UI/UX Design"]
+  let expertise = ["Swift", "Objective-C", "C++", "UI/UX Design"]
+  let focus = ["macOS", "Frameworks", "Audio", "Networking"]
   let location = "Germany"
 }
 ```
 
-Passionate about building high-quality iOS and macOS apps focused on performance, intuitive design, and user privacy. I deliver reliable, seamless experiences users can trust.
+I'm Nevio, a developer passionate about building macOS applications and frameworks, with a particular focus on audio, performance, and clean API design.
 
+I enjoy working close to the system while also creating complex, high-quality applications. I aim to make software reliable, intuitive, and well-crafted, combining technical depth with thoughtful design.
+
+This profile reflects my journey of learning, experimenting, and refining my approach to software development.
+
+Thanks for stopping by!
 
 ### My current Projects
 
-- [**ScribbleLab**](https://github.com/ScribbleLabApp/ScribbleLab): A powerful, student-focused note-taking app built for performance and flexibility (Swift · SwiftUI · iOS · macOS)
-- [**AvatarKit**](https://github.com/ScribbleLabApp/SLAvatarKit): An open-source alternative to Apple’s private AvatarKit framework (Swift · Objective-C · 3D · iOS)
-- [**Cueboard**](https://github.com/Soundform-Labs/Cueboard): A professional macOS app for precise audio cue playback with multi-output routing and advanced timecode sync via the StageSync module. Built for live shows and studio use.
-
-*These projects are currently on hold while I focus on new ideas and opportunities. Stay tuned for updates!*
+Nothing to show just yet. Exciting projects are on the way!
 
 ---
 
