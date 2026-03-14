@@ -1,10 +1,21 @@
 
 ```SWIFT
 struct Nevio: Developer {
-  let name = "Nevio H"
-  let expertise = ["Swift", "Objective-C", "C++", "UI/UX Design"]
-  let focus = ["macOS", "Frameworks", "Audio", "Networking"]
+  let name = "Nevio Hirani"
   let location = "Germany"
+  let languages = ["Swift", "ObjC", "C", "C++", "ASM"]
+  let domains = [
+    "macOS Development",
+    "System Programming",
+    "Audio Engineering",
+    "Network Engineering"
+  ]
+  let interests = [
+    "Real-time systems",
+    "UI Design",
+    "Audio over IP",
+    "Embedded development"
+  ]
 }
 ```
 
@@ -16,9 +27,15 @@ This profile reflects my journey of learning, experimenting, and refining my app
 
 Thanks for stopping by!
 
-### My current Projects
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,swift,ts,pkl)](https://skillicons.dev)
 
-Nothing to show just yet. Exciting projects are on the way!
+### My current Projects
+<a href="https://github.com/N3v1/libAES67">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N3v1&repo=libAES67" />
+</a>
+<a href="https://github.com/swiftaudiofoundation/SwiftAudioKit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swiftaudiofoundation&repo=SwiftAudioFoundation" />
+</a>
 
 ---
 
