@@ -10,7 +10,7 @@ I enjoy understanding how things work under the hood from operating system APIs 
 
 Outside of programming I work in event technology and live audio, which sparked my interest in audio software and networked audio systems.
 
-If any of my featured projects here interest you, feel freee to take a look, open an issue, or contribute. If you find something interesting, consider giving the project a ⭐️.
+If any of my featured projects here interest you, feel freee to take a look, contribute and consider giving the project a ⭐️.
 
 Thanks for stopping by!
 
