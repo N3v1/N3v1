@@ -1,41 +1,22 @@
+<p align="center">
+  <img src="banner.svg" width="700">
+</p>
 
-```SWIFT
-struct Nevio: Developer {
-  let name = "Nevio Hirani"
-  let location = "Germany"
-  let languages = ["Swift", "ObjC", "C", "C++", "ASM"]
-  let domains = [
-    "macOS Development",
-    "System Programming",
-    "Audio Engineering",
-    "Network Engineering"
-  ]
-  let interests = [
-    "Real-time systems",
-    "UI Design",
-    "Audio over IP",
-    "Embedded development"
-  ]
-}
-```
+# Hey there!
 
-I'm Nevio, a developer passionate about building macOS applications and frameworks, with a particular focus on audio, performance, and clean API design.
+I'm Nevio, a student developer based in Germany focused on **macOS Development, embedded systems, and audio engineering**.
 
-I enjoy working close to the system while also creating complex, high-quality applications. I aim to make software reliable, intuitive, and well-crafted, combining technical depth with thoughtful design.
+I enjoy understanding how things work under the hood from operating system APIs to networking protocol and real-time systems.
 
-This profile reflects my journey of learning, experimenting, and refining my approach to software development.
+Outside of programming I work in event technology and live audio, which sparked my interest in audio software and networked audio systems.
+
+If any of my featured projects here interest you, feel freee to take a look, open an issue, or contribute. If you find something interesting, consider giving the project a ⭐️.
 
 Thanks for stopping by!
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,swift,ts,pkl)](https://skillicons.dev)
+### Key Languages
 
-### My current Projects
-<a href="https://github.com/N3v1/libAES67">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N3v1&repo=libAES67" />
-</a>
-<a href="https://github.com/swiftaudiofoundation/SwiftAudioKit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swiftaudiofoundation&repo=SwiftAudioFoundation" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,swift,ts,pkl)](https://skillicons.dev)
 
 ---
 
